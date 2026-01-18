@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Steal-a-Brainrot-LennonHub-51002"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/56d70bb7b85fb11477a219711adc18b2.lua"))()
